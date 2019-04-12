@@ -2,8 +2,8 @@
 # in the templates available like {{ site.myvariable }}.
 title: Trang web tu thien
 email: your-email@domain.com
-brand: Your Name
-headline: Inventor, Engineer and Futurist
+brand: Web tu thien cua Viet Kieu My
+headline: Que huong la chum khe ngot
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
